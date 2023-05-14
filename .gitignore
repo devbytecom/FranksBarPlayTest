@@ -1,0 +1,7 @@
+
+obj/
+bin/
+*.user
+*.vsidx
+*.lock
+.vs/FranksBar/v17/.suo
